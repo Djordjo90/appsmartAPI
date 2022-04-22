@@ -1,0 +1,8 @@
+{
+    "baseUrl": "http://dummy.restapiexample.com/api/v1",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "cypress/support/reporterOptions.json"    },
+    "video": false,
+    "retries": 1
+}
